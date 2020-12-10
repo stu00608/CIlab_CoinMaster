@@ -15,13 +15,13 @@
 
 | 材料 | 示意圖 |
 | -------- | -------- |
-| WeMos D1 WiFi Arduino UNO 開發板ESP8266| ![](https://i.imgur.com/r71nrkS.png =70%x)|
-| DFPlayer Mini Player Module | ![](https://i.imgur.com/JvQxQYf.png =70%x)|
-|SD記憶卡| ![](https://i.imgur.com/mUzLACQ.jpg =70%x)|
-| 多币值出口款投币器 | ![](https://i.imgur.com/83i6y9I.png =70%x)|
-| 8Ω 1W 單體 | ![](https://i.imgur.com/x1hzGQb.png =70%x) |
-| DC5V 3W+3W數位功率音效放大器 | ![](https://i.imgur.com/MFPGKNp.png =70%x)|
-| AC ADAPTER 交換式電子變壓器 12V/1A | ![](https://i.imgur.com/GFOjBQ4.png =70%x) |
+| WeMos D1 WiFi Arduino UNO 開發板ESP8266| ![](https://i.imgur.com/r71nrkS.png)|
+| DFPlayer Mini Player Module | ![](https://i.imgur.com/JvQxQYf.png)|
+|SD記憶卡| ![](https://i.imgur.com/mUzLACQ.jpg)|
+| 多币值出口款投币器 | ![](https://i.imgur.com/83i6y9I.png )|
+| 8Ω 1W 單體 | ![](https://i.imgur.com/x1hzGQb.png) |
+| DC5V 3W+3W數位功率音效放大器 | ![](https://i.imgur.com/MFPGKNp.png)|
+| AC ADAPTER 交換式電子變壓器 12V/1A | ![](https://i.imgur.com/GFOjBQ4.png) |
 
 
 ## 外觀設計
