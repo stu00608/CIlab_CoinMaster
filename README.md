@@ -1,17 +1,8 @@
-# 自製存錢箱
+# 自製Wifi存錢箱
 
 * 搭載街機常用之投幣孔模組以及mp3播放模組。
 
-## To-Do List
-
-1. push to GitHub.
-2. add a checkbox for reset button.
-3. write this.
-
 ## 硬體零件
-
-
-
 
 | 材料 | 示意圖 |
 | -------- | -------- |
@@ -37,7 +28,7 @@
 * 修改想要連線的網路ssid與password。
 * 程式執行後若有連接到網路則會在Serial Port顯示IP位址，可以根據上面的IP位址去連線，記得要在同一個網域底下。
 
-#### main program
+#### Main Program
 
 ```c=
 #include "Arduino.h"
@@ -316,11 +307,11 @@ long EEPROMReadlong(long address){
 
 [影片Demo](https://youtu.be/Ekf3MOymUUg)
 
-![](https://i.imgur.com/jNEKNJb.jpg =70%x)
+![](https://i.imgur.com/jNEKNJb.jpg)
 
-![](https://i.imgur.com/ysVI4uo.jpg =70%x)
+![](https://i.imgur.com/ysVI4uo.jpg)
 
-![](https://i.imgur.com/DX2rPAO.jpg =70%x)
+![](https://i.imgur.com/DX2rPAO.jpg)
 
 
 
@@ -335,3 +326,7 @@ long EEPROMReadlong(long address){
 * https://randomnerdtutorials.com/esp8266-web-server-with-arduino-ide/
 * https://www.w3schools.com/css/default.asp
 * https://zhuanlan.zhihu.com/p/103756212
+
+:pancakes: Author : 沈奕辰
+
+##### tags: `Arduino` 
